@@ -1,19 +1,15 @@
 <img src="budge-banner.svg?v=4" width="100%" alt="budgecompany.com">
 
-## Psi Von Phi
+## Psi Von Phi &nbsp;·&nbsp; Founder, Budge Company
 
-**Neurosymbolic systems engineer.** I build software that thinks on your device instead of in a data centre.
+**Intelligent software sends your words to a data centre and waits. Budge doesn't.** It thinks on your phone, offline, instantly.
 
-I do the whole span: the mathematics, the renderer, the interface, the words, and the proofs that hold them to what they claim. Self-taught, which is why the range is unusual and why nothing here rests on my say-so.
+I built all of it: the mathematics, the renderer, the interface, and the proofs that hold them to what they claim.
 
-<img src="budge-rule.svg" width="100%" alt="">
+**[budgecompany.com](https://budgecompany.com)** &nbsp; A living 3D city, drawn by mathematics, in **143 KB**. Open your Network panel and check the number.
 
-### [budgecompany.com](https://budgecompany.com)
+**Budge** &nbsp; A calm companion for the days that feel like too much. iOS and Apple Watch. No cloud, no account.
 
-A living 3D city, procedurally generated, in **143 KB**. No texture files. Every window, street and rooftop is drawn by mathematics as you watch.
+**[vaelendroxx@gmail.com](mailto:vaelendroxx@gmail.com)** &nbsp; On-device intelligence, real-time graphics, verification that holds.
 
-Open your browser's Network panel and check the number. The site tells you how.
-
-<br>
-
-<sub>*This banner is 5,801 bytes. Three metal spheres knock each other into motion, the largest shoves the name off screen in four impacts, and a field of seventeen drawn instruments drifts past: knots, matrices, networks, loss curves. No image file, no JavaScript, no frames. It stops moving for anyone whose system asks for reduced motion. A typical profile banner is around 400 KB and does not move at all. Every physical claim here, contact timing, momentum ordering, occlusion, is checked on each change, the same way the site measures itself.*</sub>
+<sub>*This banner is 5,801 bytes and every physical claim in it is machine-checked. A typical one is 400 KB and does not move.*</sub>
