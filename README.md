@@ -14,4 +14,4 @@ Open your browser's Network panel and check the number. The site tells you how.
 
 <br>
 
-<sub>*This banner is 867 bytes. Three orbs from one lit gradient, a warm bloom, and a breath that travels from the smallest to the largest. No image file, no JavaScript. A typical profile banner is around 400 KB and does not move. The byte count is verified automatically on every change, because a claim nobody checks is just a number.*</sub>
+<sub>*This banner is 897 bytes. The glow is not a filter, it is the same gradient that lights each sphere continuing past its edge to nothing. The light sweeping through the letters is one moving gradient. No image file, no JavaScript. A typical profile banner is around 400 KB and does not move. The byte count is verified automatically on every change, because a claim nobody checks is just a number.*</sub>
