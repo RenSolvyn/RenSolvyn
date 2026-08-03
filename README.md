@@ -1,4 +1,4 @@
-<img src="budge-banner.svg?v=4" width="100%" alt="budgecompany.com">
+<img src="budge-mark.svg" width="100%" alt="budgecompany.com">
 
 ## Psi Von Phi &nbsp;·&nbsp; Founder, Budge Company
 
