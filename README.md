@@ -4,7 +4,7 @@
 
 **Intelligent software sends your words to a data centre and waits. Budge doesn't.** It thinks on your phone, offline, instantly.
 
-I built all of it: the mathematics, the renderer, the interface, and the proofs that hold them to what they claim.
+I built all of it: the maths, the graphics, the app itself, and the tests that keep it honest.
 
 **[budgecompany.com](https://budgecompany.com)** &nbsp; A living 3D city, drawn by mathematics, in **143 KB**. Open your Network panel and check the number.
 
@@ -12,10 +12,8 @@ I built all of it: the mathematics, the renderer, the interface, and the proofs 
 
 ### Writing code stopped being the bottleneck. Judgement did.
 
-I teach myself whatever the problem needs, then check my own work adversarially and revert when the measurement disagrees with me. Every claim I make is wired to something that fails loudly the moment it stops being true. This banner is: its physics, its timing, its size, all machine-verified on every change.
+Anyone can generate code now. Knowing which of it is actually true is the hard part. So every claim I publish has a program behind it that measures the thing and blocks the release if the number has moved. Including this banner.
 
-That habit is the whole product. Anyone can generate code now. Knowing which of it is true is the scarce part.
+**[vaelendroxx@gmail.com](mailto:vaelendroxx@gmail.com)** &nbsp; Software that runs on your phone, graphics under tight limits, and proving things work.
 
-**[vaelendroxx@gmail.com](mailto:vaelendroxx@gmail.com)** &nbsp; On-device intelligence, real-time graphics, verification that holds.
-
-<sub>*This banner is 5,801 bytes. A typical one is 400 KB and does not move.*</sub>
+<sub>*Not a video. Shapes and rules, drawn fresh every frame. The whole thing is 7,532 bytes, about one emoji, and a photo from your phone is four hundred times heavier and does not move. A GIF of this same animation would be five times the size and blurry at any zoom. Forty instruments drift past, three of them knots. The small ball nudges the next; the heavy one takes longer to move, then shoves the name off screen. Before this file goes anywhere, a program measures all of it and refuses to release it if the movement has drifted.*</sub>
